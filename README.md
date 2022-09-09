@@ -1,15 +1,7 @@
-mam rad gaye
-# ahoj svete jsem novy prichod barokniho bohema
 
-
-```java
-public static void main(String[] args) {
-    int value = 1;
-    if (value > 1 && (value % 2) == 1 | (value / 2) == 0) {
-        System.out.println(“Im in!!”);
-    } else if (value = 1) {
-        System.out.println(“Almost there”);
-    } else {
-        System.out.println(“At least you tried!”);
-    }
-```
+### JDK - Java Development Kit
+-Balík programů od firmy Sun Microsystems pro vývoj aplikací v Javě.
+### JRE - Java Runtime Environment
+-Softwarový balíček, který poskytuje knihovny tříd Java, Java Virtual Machine.
+### JVM - Java Virtual Machine
+-Abstraktní stroj, který umožňuje vašemu počítači spouštět program Java.
