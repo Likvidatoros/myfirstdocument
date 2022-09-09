@@ -1,4 +1,4 @@
-
+mam rad gaye
 # ahoj svete jsem novy prichod barokniho bohema
 
 
