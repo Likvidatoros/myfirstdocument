@@ -1,1 +1,1 @@
-ahoj svete jsem novy prichod barokniho bohema
+#ahoj svete jsem novy prichod barokniho bohema
